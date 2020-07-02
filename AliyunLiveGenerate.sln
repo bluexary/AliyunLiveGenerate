@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliyunLiveGenerate", "AliyunLiveGenerate\AliyunLiveGenerate.csproj", "{BABC15C1-67E7-4F4C-8D3D-A4C27AC363DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BABC15C1-67E7-4F4C-8D3D-A4C27AC363DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BABC15C1-67E7-4F4C-8D3D-A4C27AC363DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BABC15C1-67E7-4F4C-8D3D-A4C27AC363DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BABC15C1-67E7-4F4C-8D3D-A4C27AC363DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76964B77-57C8-466E-9133-C273E86CC44A}
+	EndGlobalSection
+EndGlobal
